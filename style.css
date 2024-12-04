@@ -71,6 +71,19 @@
     text-decoration: underline;
   }
   
+  
+  .center-img {
+    text-align: center; 
+    
+  }
+  
+  .centered-img {
+    max-width: 80%; 
+    height: auto;  
+    margin-top: 20px; 
+    width: 300px;
+  }
+  
   footer {
     text-align: center;
     background-color: #343a40;
